@@ -76,4 +76,4 @@ To run this locally:
 
 ## 📝 License
 
-[Your License Here, e.g., MIT]
+[Owned by Syed Farhan Ahmed]
