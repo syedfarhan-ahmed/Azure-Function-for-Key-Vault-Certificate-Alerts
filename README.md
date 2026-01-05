@@ -4,7 +4,7 @@ This Azure Function (PowerShell) automatically monitors certificates in an Azure
 
 ## 🚀 Features
 
-* **Automated Daily Checks:** Runs on a timer trigger (default: Daily at 8:00 AM UTC).
+* **Automated Daily Checks:** Runs on a timer trigger (default: Daily at 14:30 PM UTC).
 * **Tiered Alerting:**
     * **CRITICAL (High Priority):** Expires in **≤ 7 days**.
     * **ERROR:** Expires in **< 15 days**.
