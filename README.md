@@ -76,4 +76,4 @@ To run this locally:
 
 ## 📝 License
 
-[Owned by Syed Farhan Ahmed]
+Owned by Syed Farhan Ahmed
